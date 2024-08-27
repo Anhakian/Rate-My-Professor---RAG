@@ -1,0 +1,124 @@
+{
+    "reviews": [
+        {
+            "professor": "Dr. Emily Wilson",
+            "subject": "Physics",
+            "stars": 5,
+            "review": "Excellent professor! She explains complex topics clearly and is always willing to help."
+        },
+        {
+            "professor": "Dr. John Carter",
+            "subject": "Mathematics",
+            "stars": 4,
+            "review": "Very knowledgeable but sometimes goes too fast. Great lectures overall."
+        },
+        {
+            "professor": "Dr. Sarah Thompson",
+            "subject": "Chemistry",
+            "stars": 3,
+            "review": "The course material is challenging, but Dr. Thompson is approachable and helpful during office hours."
+        },
+        {
+            "professor": "Dr. Robert James",
+            "subject": "History",
+            "stars": 5,
+            "review": "Passionate about history and makes the class interesting. Highly recommended!"
+        },
+        {
+            "professor": "Dr. Lisa Patel",
+            "subject": "Biology",
+            "stars": 2,
+            "review": "Difficult to follow lectures, but the labs are informative. Needs to improve engagement."
+        },
+        {
+            "professor": "Dr. Michael Brown",
+            "subject": "Economics",
+            "stars": 4,
+            "review": "Great professor with practical insights into the subject. Exams are tough but fair."
+        },
+        {
+            "professor": "Dr. Karen Lee",
+            "subject": "Psychology",
+            "stars": 5,
+            "review": "Dr. Lee is amazing! Very understanding and supportive, and the material is engaging."
+        },
+        {
+            "professor": "Dr. David Clark",
+            "subject": "Philosophy",
+            "stars": 3,
+            "review": "Interesting lectures, but the grading is strict. Be prepared for a lot of reading."
+        },
+        {
+            "professor": "Dr. Nancy Green",
+            "subject": "Sociology",
+            "stars": 4,
+            "review": "Engaging lecturer with real-world examples. Participation is key in her class."
+        },
+        {
+            "professor": "Dr. Kevin Parker",
+            "subject": "Computer Science",
+            "stars": 5,
+            "review": "One of the best professors in the department! Makes coding concepts easy to understand."
+        },
+        {
+            "professor": "Dr. Amy Rodriguez",
+            "subject": "English",
+            "stars": 3,
+            "review": "Good professor, but the workload is heavy. Be prepared to write a lot of essays."
+        },
+        {
+            "professor": "Dr. William Harris",
+            "subject": "Political Science",
+            "stars": 2,
+            "review": "Lectures are dull and repetitive. Could improve student engagement."
+        },
+        {
+            "professor": "Dr. Jennifer Adams",
+            "subject": "Art History",
+            "stars": 5,
+            "review": "Fantastic professor! Makes art history come alive with vivid explanations."
+        },
+        {
+            "professor": "Dr. Brian Davis",
+            "subject": "Environmental Science",
+            "stars": 4,
+            "review": "Very knowledgeable and passionate about the environment. Assignments are thought-provoking."
+        },
+        {
+            "professor": "Dr. Jessica White",
+            "subject": "Statistics",
+            "stars": 3,
+            "review": "Challenging material, but Dr. White explains it well. Tutorials are very helpful."
+        },
+        {
+            "professor": "Dr. Steven Turner",
+            "subject": "Geography",
+            "stars": 4,
+            "review": "Great at connecting course material to real-world scenarios. Interesting lectures."
+        },
+        {
+            "professor": "Dr. Laura Murphy",
+            "subject": "Business Administration",
+            "stars": 5,
+            "review": "Outstanding professor! Her classes are well-structured, and she provides valuable insights."
+        },
+        {
+            "professor": "Dr. James Thompson",
+            "subject": "Anthropology",
+            "stars": 2,
+            "review": "Not very engaging and tends to go off-topic. The course could be better organized."
+        },
+        {
+            "professor": "Dr. Megan Collins",
+            "subject": "Literature",
+            "stars": 4,
+            "review": "Passionate about literature and encourages deep thinking. Assignments are interesting."
+        },
+        {
+            "professor": "Dr. Daniel Wright",
+            "subject": "Engineering",
+            "stars": 5,
+            "review": "Very supportive and knowledgeable. Provides excellent resources and practical examples."
+        }
+    ]
+}
